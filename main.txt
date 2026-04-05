@@ -1,3 +1,10 @@
 Hi im note to testing github.
 
 this line was added by Lofi04.
+
+this is another line by lofi, is only a test.
+
+
+///////////////////////////////////////////////////
+all this is to Branch01
+this time really im LoFi04
